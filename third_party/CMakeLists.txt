@@ -5,7 +5,7 @@ set(FETCHCONTENT_UPDATES_DISCONNECTED false)
 # ------------------------------------------------------------------------------
 
 FetchContent_Declare(smk
-  GIT_REPOSITORY https://github.com/ArthurSonzogni/smk
+  GIT_REPOSITORY https://github.com/sloanyyc/smk
   GIT_TAG e74377e1ee3738be0c907717c1b19f962c1941b8
 )
 
